@@ -1,0 +1,14 @@
+*{
+    background-image:url('thunder.jpg') ;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment: fixed;}
+    p{
+        color: white;
+        font-size: x-large;
+    }
+    h2{
+        color:rgb(122, 144, 62);
+        font-size: xx-large;
+        
+    }
